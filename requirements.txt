@@ -1,0 +1,7 @@
+torch
+tensorboardX
+tqdm
+torchtext
+spacy
+matplotlib
+sklearn
