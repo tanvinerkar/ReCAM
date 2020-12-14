@@ -8,7 +8,7 @@ Abstractness has 2 definitions, imperceptibility and non-specificity. The sub ta
 
 There are 3 branches in this repository.
 
-1. *master*: Contains the Training, Prediction and Evaluation code for Task 1.
+1. *master*: Contains the Training, Prediction and Evaluation code for Tasks 1 and 2.
 
 2. *GAReader*: Contains the baseline model provided by the organizers: Gated Attention Reader.
 
